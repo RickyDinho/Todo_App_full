@@ -1,0 +1,159 @@
+{ 
+  "todos": [
+    {
+      "id": "1",
+      "text": "Learn React",
+      "completed": true,
+      "category": "1",
+      "description": "Study the basics of React framework",
+      "timestamp": 1710990000000
+    },
+    {
+      "id": "2",
+      "text": "Build a todo app",
+      "completed": false,
+      "category": "1",
+      "description": "Develop a simple todo application using React",
+      "timestamp": 1711076400000
+    },
+    {
+      "id": "3",
+      "text": "Go for a run",
+      "completed": false,
+      "category": "4",
+      "description": "Jog around the neighborhood for 30 minutes",
+      "timestamp": 1711162800000
+    },
+    {
+      "id": "4",
+      "text": "Read a book",
+      "completed": false,
+      "category": "4",
+      "description": "Finish reading the current novel",
+      "timestamp": 1711249200000
+    },
+    {
+      "id": "5",
+      "text": "Buy groceries",
+      "completed": false,
+      "category": "3",
+      "description": "Purchase weekly groceries from the local store",
+      "timestamp": 1711335600000
+    },
+    {
+      "id": "6",
+      "text": "Prepare presentation for client meeting",
+      "completed": false,
+      "category": "1",
+      "description": "Create slides for the upcoming client meeting",
+      "timestamp": 1711422000000
+    },
+    {
+      "id": "7",
+      "text": "Review project timeline",
+      "completed": true,
+      "category": "1",
+      "description": "Go over the project timeline and ensure deadlines are met",
+      "timestamp": 1711508400000
+    },
+    {
+      "id": "8",
+      "text": "Update documentation",
+      "completed": false,
+      "category": "1",
+      "description": "Add recent changes to the project documentation",
+      "timestamp": 1711594800000
+    },
+    {
+      "id": "9",
+      "text": "Fix bug in login component",
+      "completed": true,
+      "category": "1",
+      "description": "Resolve the issue causing login failures",
+      "timestamp": 1711681200000
+    },
+    {
+      "id": "10",
+      "text": "Attend team standup",
+      "completed": false,
+      "category": "1",
+      "description": "Participate in the daily team standup meeting",
+      "timestamp": 1711767600000
+    },
+    {
+      "id": "18",
+      "text": "Call mom",
+      "completed": true,
+      "category": "2",
+      "description": "Have a phone call with mom to catch up",
+      "timestamp": 1711854000000
+    },
+    {
+      "id": "19",
+      "text": "Schedule dentist appointment",
+      "completed": false,
+      "category": "2",
+      "description": "Book an appointment for a dental check-up",
+      "timestamp": 1711940400000
+    },
+    {
+      "id": "39",
+      "text": "30 minute workout",
+      "completed": false,
+      "category": "4",
+      "description": "Perform a home workout for 30 minutes",
+      "timestamp": 1712026800000
+    },
+    {
+      "id": "40",
+      "text": "Drink 8 glasses of water",
+      "completed": true,
+      "category": "4",
+      "description": "Ensure daily water intake goal is met",
+      "timestamp": 1712113200000
+    },
+    {
+      "id": "47",
+      "text": "Complete online course module",
+      "completed": false,
+      "category": "5",
+      "description": "Finish the current module of the online course",
+      "timestamp": 1712199600000
+    },
+    {
+      "id": "48",
+      "text": "Read chapter of technical book",
+      "completed": true,
+      "category": "5",
+      "description": "Read a chapter from a technical book for knowledge gain",
+      "timestamp": 1712286000000
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Work",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "2",
+      "name": "Personal",
+      "color": "#ef4444"
+    },
+    {
+      "id": "3",
+      "name": "Shopping",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "4",
+      "name": "Health",
+      "color": "#10b981"
+    },
+    {
+      "id": "5",
+      "name": "Learning",
+      "color": "#8b5cf6"
+    }
+  ]
+}
